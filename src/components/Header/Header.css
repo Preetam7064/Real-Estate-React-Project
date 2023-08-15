@@ -1,5 +1,5 @@
 .h-wrapper {
-	background-color: var(--black);
+	color: white;
 }
 .h-container {
 	justify-content: space-between;
@@ -8,6 +8,7 @@
 	color: var(--secondary);
 }
 .h-menu {
+	color: white;
 	gap: 2rem;
 }
 .h-menu > *:hover {
