@@ -6,11 +6,7 @@
 	background-color: var(--black);
 	position: relative;
 }
-.white-gradient {
-	position: absolute;
-	height: 20rem;
-	width: 20rem;
-}
+
 .white-gradient {
 	width: 20rem;
 	height: 20rem;

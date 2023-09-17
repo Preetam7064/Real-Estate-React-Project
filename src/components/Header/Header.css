@@ -8,7 +8,7 @@
 	color: var(--secondary);
 }
 .h-menu {
-	color: white;
+	/* color: white; */
 	gap: 2rem;
 }
 .h-menu > *:hover {
