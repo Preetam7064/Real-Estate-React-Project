@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './../Header/Header.css';
-import Logo from './../../../public/Logo.png';
+import Logo from './../../../public/logo.png';
 import { BiMenuAltRight } from 'react-icons/bi';
 import OutsideClickHandler from 'react-outside-click-handler';
 
